@@ -1,0 +1,16 @@
+{
+  "name": "Royal Drop Ventures",
+  "short_name": "Royal Drop",
+  "description": "Royal Drop Ventures packaged drinking water and premium water delivery.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf8ff",
+  "theme_color": "#0a294b",
+  "orientation": "portrait-primary",
+  "icons": [
+  
+    {"src":"royal-drop-brand-logo.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"royal-drop-brand-logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
